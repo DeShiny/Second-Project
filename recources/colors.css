@@ -1,0 +1,31 @@
+
+a {
+  color: white;
+  font-size: 32;
+  word-spacing: 10;
+
+}
+
+*{
+  background-color: rgb(150, 0, 50);
+  text-align: center;
+}
+
+h1 {background-color: rgb(130, 0, 0);
+  color: white;
+  text-align: center;
+  height: 100;
+}
+
+ #rice {
+
+ }
+
+li {
+  background-color: lightGreen;
+  font-size: 24;
+
+}
+#braai {
+  
+}
